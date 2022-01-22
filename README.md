@@ -53,6 +53,8 @@ I’m interested in developing a one stop blockchain DEFI app which would includ
 - 💞️ I’m looking to collaborate with other blockchain developers and full stack software developers/engineers
 - 📫 How to reach me @alexcampain@omail.ai
 
+-  --NeoMetaVerse
+
 <!---
 
 --->
