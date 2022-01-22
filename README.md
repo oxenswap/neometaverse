@@ -42,7 +42,7 @@ staffing models.
 ✔PROJECT SPEARHEAD WITH: “big picture” focus; combines knowledge of new & emerging ERP methodologies and systems 
 along with financials to establish a competitive edge and grow bottom-line profitability. 
 
-Visit Us At:  https://optopteam.com
+(By Invitation ONLY) Know More About Us at: https://optopteam.com Sign Up>> https://ofounders.net/registration/user?reg=cgWto04i5FY3oWcF0eUVLw%3D%3D
 I’m interested in developing a one stop blockchain DEFI app which would include NFT minting, DEX, saving, loans and NFT sales.
 - 🌱 I’m ALWAYS learning new updated fuunctions, variables and objects in Solidity and in many other languages in the ever
    fast changing world of programmimg langauge
