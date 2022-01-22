@@ -4,8 +4,8 @@ thank you for checking out my profile.
 With a 20+ year background in leadership, marketing management, SEO website design, HTML, social media marketing
 & various programming languages. I possess a keen ability in communication & understanding new emerging technologies. 
 
-I have exprience in developing A.I chatbot, botAutomation, dapps, DEFI, smart contracts, crypto token and flashloans
-Arbitrage bot utilizing (DLT) distributed ledger technology. 
+I have exprience in developing A.I chatbot, botAutomation, dapps, DEFI, smart contracts, crypto token, flashloans &
+Arbitrage bots utilizing (DLT) distributed ledger technology. 
 
 I have recently turned my attention to the intricacies of wealth building as well as living a better life by introducing 
 new emerging disruptive technologies which brings real life value across the modern & developing world. 
