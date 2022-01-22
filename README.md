@@ -1,4 +1,4 @@
-Hello my name Alex E. Campain|My pseudonymous>> NeoMetaVerse
+Hello my name Alex E. Campain|My pseudonymous>> "NeoMetaVerse"
 thank you for checking out my profile. 
 
 With a 20+ year background in leadership, marketing management, SEO|SEM, website design, HTML, social media marketing
