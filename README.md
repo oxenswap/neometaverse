@@ -44,7 +44,7 @@ staffing models.
 along with financials to establish a competitive edge and grow bottom-line profitability. 
 
 Visit Us At:  https://optopteam.com
-I’m interested in developing a one stop blockchain DEFI app which would include NFT mint, DEX, saving, loans and NFT sales.
+I’m interested in developing a one stop blockchain DEFI app which would include NFT minting, DEX, saving, loans and NFT sales.
 - 🌱 I’m ALWAYS learning new updated fuunctions, variables and objects in Solidity and in many other languagees in the ever
    fast changing world of programmimg langauge
    
