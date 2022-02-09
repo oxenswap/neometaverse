@@ -1,7 +1,7 @@
-Hello my name Alex E. Campain|my pseudonymous>> "NeoMetaVerse"
+Hello my name Alex E. Campain|my pseudonymous>> "NeoMetaVerse/oxenswap"
 thank you for viewing my profile. 
 
-With a 20+ year background in leadership, marketing management, SEO|SEM, website design, HTML, social media marketing
+With a 12+ year background in leadership, marketing management, SEO|SEM, website design, HTML, social media marketing
 & various programming low and high level languages; I have developed a thorough understanding of new emerging technologies 
 and I have the grasp the intricacies of excellent communication skills both verbally and written. 
 
@@ -45,7 +45,7 @@ staffing models.
 ✔PROJECT SPEARHEAD WITH: “big picture” focus; combines knowledge of new & emerging ERP methodologies and systems 
 along with financials to establish a competitive edge and grow bottom-line profitability. 
 
-(By Invitation ONLY) Know More About Us at: https://optopteam.com Sign Up>> https://ofounders.net/registration/user?reg=cgWto04i5FY3oWcF0eUVLw%3D%3D
+(By Invitation ONLY) Know More About Us at: https://optopteam.com Sign Up>> https://otrim.ai/SAAS
 I’m interested in developing a one stop blockchain DEFI app which would include NFT minting, DEX, saving, loans and NFT sales.
 - 🌱 I’m ALWAYS learning new updated fuunctions, variables and objects in Solidity and in many other languages in the ever
    fast changing world of programmimg langauges.
@@ -56,7 +56,7 @@ I’m interested in developing a one stop blockchain DEFI app which would includ
 - 💞️ I'm looking to collaborate with other blockchain developers and full stack software developers/engineers
 - 📫 How to reach me for hire or collabs: @alexcampain@omail.ai
 
--  --NeoMetaVerse
+-  --NeoMetaVerse/oxenswap
 
 <!---
 
